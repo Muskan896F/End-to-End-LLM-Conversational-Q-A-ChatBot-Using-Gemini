@@ -39,3 +39,6 @@ GOOGLE_API_KEY =your_api_key_here
 5. Run the Application
 bash
 streamlit run app.py
+
+6. Deployment App 
+https://muskan896f-end-to-end-llm-conversational-q-a-chatbot-app-lhgobp.streamlit.app/
